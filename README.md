@@ -1,4 +1,4 @@
-# IPMA6212_Assignment2_Neighborhood-Watch
+# IPMA6212_Assignment2_Neighbourhood-Watch
 PM Issue Log Repo
 
 This repository contains the proposed / hypothetical issue log for the development of a neighbourhood watch application. This project aims to allow users to report suspicious activities in their neighbourhood and alert other users, security bodies and local authorities active in the vicinity.
