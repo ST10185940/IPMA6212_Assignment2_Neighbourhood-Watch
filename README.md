@@ -7,4 +7,5 @@ This repository contains the proposed / hypothetical issue log for the developme
 
 - Moses Musekwa-ST10232009
 - Moses Sithole  st10185940
-- Rowland kutukwa -St10077804 *Inactive
+- Rowland kutukwa St10077804 *Inactive
+- Tshedza Ramabulana ST10066258
